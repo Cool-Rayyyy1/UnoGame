@@ -9,7 +9,7 @@ The deck consists of 108 cards.
 * Four “Wild” cards (ones look like color wheels)
 * Four “Wild Draw Four” cards
 * For each color in red, yellow, green and blue: One “0” card, Two sets of “1” - “9” cards, Two “Skip” cards (ones marked with ∅), Two “Reverse” cards, Two “Draw Two” cards.<br>
-![cards](UnoCardImages/All_cards.png "cards")
+   ![AllCards](Image/AllCards.png "Allcards")
 ### Rules :star:
 * On a player's turn, they have options below to perform:
   * play one card matching the latest card of the discard pile in color, number, or symbol
